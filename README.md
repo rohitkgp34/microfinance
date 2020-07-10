@@ -9,9 +9,9 @@ Microfinance, also called Microcredit​, is a type of banking service that is p
 
 ## Traditional Microfinance - ##
 
-**Hierarchy**
+**Hierarchy(In general)**
 
-![](images/traditional_microfinance.jpg)
+![](images/Initial.png)
 
  **Working**
 
@@ -53,7 +53,7 @@ Lack of risk management framework and multiple borrowings by most clients can le
 
 ## Proposed Solution ##
 
-![](images/microfinance.png)
+![](images/Flowchart.png)
 
 ## Participants ## 
 
