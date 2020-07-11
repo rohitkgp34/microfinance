@@ -2,7 +2,7 @@
 
 ## What is Microfinance ? ##
 
-Microfinance, also called Microcredit​, is a type of banking service that is provided to unemployed or low-income individuals or groups who otherwise would have no other access to financial services ie unbanked or underbanked. While institutions participating in the area of microfinance most often provide lending, many banks offer additional services, such as checking and savings accounts, and micro-insurance products; and some even provide financial and business education. Ultimately, the goal of microfinance is to give impoverished people an opportunity to become self-sufficient.
+Microfinance, also called microcredit​, is a type of banking service that is provided to unemployed or low-income individuals or groups who otherwise would have no other access to financial services ie unbanked or underbanked. While institutions participating in the area of microfinance most often provide lending, many banks offer additional services, such as checking and savings accounts, and micro-insurance products; and some even provide financial and business education. Ultimately, the goal of microfinance is to allow impoverished people to become self-sufficient.
 
 ## Traditional Microfinance - ##
 
@@ -25,10 +25,9 @@ Microfinance, also called Microcredit​, is a type of banking service that is p
  
 ## Problem associated with Microfinance Institutions - ##
 
-* High rates of interest (25-40%) as compared to mainstream banks (8-12%) because of high risk involved also money transaction are quite slow and unsafe. Due to this, a situation of over-indebtedness arises and may result in higher suicide rates of borrowers.
+* High rates of interest (25-40%) as compared to mainstream banks (8-12%) because of the high risk involved also money transactions are quite slow and unsafe. Due to this, a situation of over-indebtedness arises and may result in higher suicide rates of borrowers.
 
-* Property risk - Keeping all the assets in the form of cash is sometimes risky because of the because of the living environment 
-Lack of risk management framework and multiple borrowings by most clients can lead to over-indebtedness and hence result in a microfinance crisis as it did in India 2008. To prevent this, MFIs usually increase their cost of monitoring.
+* Property risk - Keeping all the assets in the form of cash is sometimes risky because of the living environment. Lack of risk management framework and multiple borrowings by most clients can lead to over-indebtedness and hence result in a microfinance crisis as it did in India 2008. To prevent this, MFIs usually increase their cost of monitoring.
 
 * In such a setting, the people who put money into microfinance are completely invisible to the people who get microfinance, and vice versa. Hence, there is no provision for accountability. 
 
@@ -63,10 +62,10 @@ Lack of risk management framework and multiple borrowings by most clients can le
 
 **Declining balance calculation with interest recalculation**
 
-Declining Balance - Interest Recalculation gives user a new possibility in configuring and managing cash flow on loan accounts. The main role of Interest Recalculation is to control early and late payments of each installment. When loan repayment is on time, then Interest Recalculation works in the same way as normal Declining Balance interest rate type.  Interest Recalculation can be mostly useful in cases such as: early payment with less than installment amount, due date payment with excess amount or late payment with equal installment amount.
+Declining Balance - Interest Recalculation gives the user a new possibility in configuring and managing cash flow on loan accounts. The main role of Interest Recalculation is to control early and late payments of each installment. When loan repayment is on time, then Interest Recalculation works in the same way as normal Declining Balance interest rate type.  Interest Recalculation can be most useful in cases such as early payment with less than installment amount, due date payment with the excess amount, or late payment with equal installment amount.
 
-In case when client pays late, an excess interest is charged from him on the principal he is late on, and for the number of days he is late in making the payment. This excess interest gets added to the next installment and will be shown along with the installment’s interest.
-In case the client pays early, only the interest due till payment date is recovered from the payment applied. The remaining amount is allocated towards the principal payment and is reflected against the next installment’s principal.
+In case when a client pays late, an excess interest is charged from him on the principal he is late on, and for the number of days, he is late in making the payment. This excess interest gets added to the next installment and will be shown along with the installment’s interest.
+In case the client pays early, only the interest due until the payment date is recovered from the payment applied. The remaining amount is allocated towards the principal payment and is reflected against the next installment’s principal.
 
 Interest due till date is recovered first because the installment date for the installment in case of early payment is yet to occur. The installment will not be marked as completely paid in case of early payment. For the date of early payment to the installment date, interest will be calculated on the overall unpaid principal for those number of days. </br>
 
