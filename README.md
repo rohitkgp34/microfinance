@@ -44,7 +44,7 @@ Microfinance, also called microcredit​, is a type of banking service that is p
 * Enabling the sharing and maintenance of sensitive data in more secure ways
 * Allowing for cheaper and quicker flows of capital to and from borrowers and hence less risk and lower the interest rate
 
-![](images/microfinance1.png)
+![](images/Benifits.png)
 
 ## Proposed Solution ##
 
